@@ -20,7 +20,22 @@ System Architecture
 ## 📊 Output
 - Tool condition prediction (e.g., Healthy / Worn)
 - Graphical analysis of signal features
+- ## 📊 Results
 
+### Kalman Filter Output
+![Kalman](KalmanFilterResult.png)
+
+### FFT Analysis
+![FFT](FFTResult.png)
+
+### Signal Distribution
+![Distribution](results/distribution.png)
+
+### Condition Classification
+![Condition](Result1.png)
+
+### Condition Classification
+![Condition](Result2.png)
 ---
 
 ## 🧠 Skills Demonstrated
