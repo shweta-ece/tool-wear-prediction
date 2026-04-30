@@ -39,7 +39,7 @@ This project was developed to study tool wear behavior using signal-based featur
 ![FFT](results/FFTResult.png)
 
 ### Signal Distribution
-![Distribution](results/DistributionResult.png)
+result/DistributionResults.png
 
 ### Condition Classification (Case 1)
 ![Condition1](results/Result1.png)
