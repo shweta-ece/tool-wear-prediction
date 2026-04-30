@@ -2,6 +2,8 @@
 
 ## 🔍 Overview
 This project was developed to study tool wear behavior using signal-based feature extraction and machine learning techniques.The objective was to understand how signal variations can indicate tool degradation in machining systems.
+System Architecture
+![Architecture](architecture.png)
 
 ---
 
