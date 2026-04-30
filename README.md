@@ -29,7 +29,7 @@ System Architecture
 ![FFT](FFTResult.png)
 
 ### Signal Distribution
-![Distribution](results/distribution.png)
+![Distribution](DistributionResult.png)
 
 ### Condition Classification
 ![Condition](Result1.png)
