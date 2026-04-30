@@ -33,19 +33,19 @@ This project was developed to study tool wear behavior using signal-based featur
 ## 📊 Results
 
 ### Kalman Filter Output
-![Kalman](results/KalmanFilterResult.png)
+![Kalman](result/KalmanFilterResult.png)
 
 ### FFT Analysis
-![FFT](results/FFTResult.png)
+![FFT](result/FFTResult.png)
 
 ### Signal Distribution
-result/DistributionResults.png
+![Distribution](result/DistributionResults.png)
 
 ### Condition Classification (Case 1)
-![Condition1](results/Result1.png)
+![Condition1](result/Result1.png)
 
 ### Condition Classification (Case 2)
-![Condition2](results/Result2.png)
+![Condition2](result/Result2.png)
 
 ---
 
