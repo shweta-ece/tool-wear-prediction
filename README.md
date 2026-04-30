@@ -6,7 +6,7 @@ This project was developed to study tool wear behavior using signal-based featur
 ---
 
 ## 🏗️ System Architecture
-![Architecture](architecture/architecture.png)
+![Architecture](arch/Architecture.png)
 
 ---
 
